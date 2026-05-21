@@ -1,0 +1,682 @@
+food,calories,protein,fat,carbs
+agathi leaves,295.0,8.01,1.35,5.21
+allathi,406.0,21.77,0.98,0.0
+almond,2549.0,18.41,58.49,3.04
+almonds,579.0,21.0,50.0,22.0
+aluva,434.0,21.63,1.8,0.0
+amaranth leaves green,128.0,3.29,0.65,2.28
+amaranth leaves red and green mix,132.0,3.09,0.53,2.87
+amaranth leaves red mix,140.0,3.93,0.63,2.37
+amaranth seed black,1490.0,14.59,5.74,59.98
+amaranth seed pale brown,1489.0,13.27,5.56,61.46
+amaranth spinosus leaves green mix,110.0,3.54,0.36,1.61
+amaranth spinosus leaves red and green mix,99.0,2.8,0.34,1.45
+anchovy,367.0,19.88,0.78,0.0
+apple,52.0,0.3,0.2,14.0
+apple big,261.0,0.29,0.64,13.11
+apple green,214.0,0.46,0.5,10.65
+apple small,267.0,0.31,0.53,13.95
+apple small kashmir,269.0,0.27,0.6,13.99
+apples fuji with skin,65.0,0.15,0.16,15.7
+apples gala with skin,61.0,0.13,0.15,14.8
+apples granny smith with skin,59.0,0.27,0.14,14.2
+apples honeycrisp with skin,60.0,0.1,0.1,14.7
+apples red delicious with skin,62.0,0.19,0.21,14.8
+apricot dried,1321.0,3.17,0.74,72.63
+apricot processed,236.0,1.47,0.64,10.93
+arecanut,1024.0,2.73,5.51,45.0
+arecanut dried brown,1467.0,5.78,4.35,70.42
+arecanut dried red color,1477.0,6.46,4.46,70.27
+ari fish,415.0,22.01,1.11,0.0
+asafoetida,1387.0,6.34,1.26,71.95
+ash gourd,73.0,0.79,0.14,2.84
+avocado fruit,604.0,2.95,13.86,1.75
+bael fruit,569.0,2.63,0.57,28.21
+bajra,908.5,10.98,5.215,64.39
+bamboo shoot tender,68.0,1.33,0.35,1.67
+banana,89.0,1.1,0.3,23.0
+banana ripe montham,463.0,1.25,0.32,24.95
+banana ripe poovam,445.0,1.49,0.35,23.41
+banana ripe red,467.0,1.29,0.29,25.21
+banana ripe robusta,440.0,1.23,0.33,23.63
+bananas overripe,85.0,0.73,0.22,20.1
+bananas ripe and slightly ripe,97.0,0.74,0.29,23.0
+barley,836.5,11.469999999999999,1.65,67.145
+basella leaves,82.0,1.57,0.45,2.01
+basmati rice,125.5,3.1,0.35,26.5
+bathua leaves,116.0,2.5,0.44,2.56
+bean scarlet tender,179.0,2.86,0.99,5.16
+beans,31.0,1.8,0.1,7.0
+beans snap green canned regular pack drained solids,21.0,1.04,0.39,4.11
+beef,250.0,26.0,15.0,0.0
+beef brain,523.0,10.55,9.28,0.0
+beef chops,585.0,19.82,6.71,0.0
+beef heart,433.0,17.68,3.57,0.0
+beef kidneys,439.0,17.09,4.01,0.0
+beef liver,499.0,20.73,3.96,0.0
+beef loin tenderloin roast separable trimmed to fat select,176.0,27.7,6.36,0.0
+beef loin top loin steak lip on separable trimmed to fat choice,155.0,22.8,6.39,0.0
+beef lungs,351.0,15.66,2.28,0.0
+beef round,658.0,22.64,7.38,0.0
+beef round eye of round roast separable trimmed to fat select,122.0,23.4,2.48,0.0
+beef round top round roast separable trimmed to fat select,123.0,23.7,2.41,0.0
+beef short loin porterhouse steak separable trimmed to fat select,145.0,22.7,5.32,0.0
+beef short loin t bone steak bone in separable trimmed to fat choice grilled,219.0,27.3,11.4,0.0
+beef shoulder,889.0,20.56,14.59,0.0
+beef spleen,378.0,17.42,2.22,0.0
+beef tongue,731.0,15.63,12.57,0.0
+beef tripe,316.0,13.1,2.51,0.0
+beet greens,145.0,2.38,0.75,3.86
+beet root,149.0,1.95,0.14,6.18
+beetroot,43.0,1.6,0.2,10.0
+bengal gram dal,1377.0,21.55,5.31,46.72
+bengal gram whole,1201.0,18.77,5.11,39.56
+betel leaves big,202.0,2.51,0.75,7.37
+betel leaves small,183.0,2.62,0.75,6.16
+betki,284.0,15.28,0.29,0.0
+bitter gourd jagged smooth ridges elongate,81.0,1.61,0.26,2.29
+bitter gourd jagged teeth ridges elongate,87.0,1.44,0.24,2.82
+bitter gourd jagged teeth ridges short,79.0,1.34,0.24,2.53
+black berry,227.0,0.92,0.63,10.64
+black gram dal,1356.0,23.06,1.69,51.0
+black gram whole,1219.0,21.97,1.58,43.99
+black pepper,251.0,10.0,3.3,64.0
+black snapper,377.0,19.5,1.24,0.0
+bombay duck,287.0,13.53,1.03,0.0
+bommuralu,485.0,22.3,2.87,0.0
+bottle gourd,15.0,0.6,0.1,3.7
+bottle gourd elongate dark green,54.0,0.49,0.13,2.25
+bottle gourd elongate pale green,46.0,0.53,0.13,1.68
+bottle gourd round pale green,57.0,0.42,0.12,2.53
+bread white commercially prepared,270.0,9.43,3.59,49.2
+bread whole wheat commercially prepared,254.0,12.3,3.55,43.1
+brinjal,63.61363636363637,1.234090909090909,0.2593181818181818,4.805681818181818
+brinjal all varieties,106.0,1.48,0.32,3.52
+broad beans,123.0,3.85,0.15,2.11
+broccoli,31.5,2.57,0.34,6.279999999999999
+broiler chicken,215.0,27.0,11.0,0.0
+brown rice,111.0,2.6,0.9,23.0
+brussels sprouts,185.0,4.26,0.5,5.09
+butter,717.0,0.9,81.0,0.1
+buttermilk,40.0,3.3,1.0,4.8
+button mushroom,115.0,3.68,0.42,1.98
+cabbage,25.0,1.3,0.1,6.0
+cabbage chinese,75.0,1.58,0.13,2.36
+cabbage collard greens,126.0,3.63,0.27,2.79
+cabbage green,90.0,1.36,0.12,3.25
+cabbage violet,97.0,1.39,0.21,3.54
+calf brain,448.0,9.84,7.6,0.0
+calf chops,524.0,22.47,3.85,0.0
+calf heart,459.0,18.84,3.75,0.0
+calf kidneys,387.0,15.16,3.5,0.0
+calf liver,503.0,21.02,3.95,0.0
+calf round,615.0,21.1,6.92,0.0
+calf shoulder,633.0,20.98,7.47,0.0
+calf spleen,379.0,17.71,2.12,0.0
+calf tongue,737.0,17.78,11.76,0.0
+capsicum,20.0,0.9,0.2,4.6
+capsicum green,68.0,1.11,0.34,1.84
+capsicum red,83.0,1.47,0.47,2.14
+capsicum yellow,78.0,1.35,0.41,1.95
+cardamom black,1132.0,6.69,2.8,52.53
+cardamom green,1067.0,8.1,2.6,47.76
+carrot,41.0,0.9,0.2,10.0
+carrot orange,139.0,0.95,0.47,5.55
+carrot red,160.0,1.04,0.47,6.71
+carrots frozen unprepared,37.0,0.81,0.47,7.92
+cashew nut,2438.0,18.78,45.2,25.46
+cashew nuts,553.0,18.0,44.0,30.0
+cashews,553.0,18.0,44.0,30.0
+cat fish,487.0,19.02,4.1850000000000005,0.0
+catla,394.0,17.94,2.15,0.0
+cauliflower,42.75,1.9625,0.33499999999999996,4.2575
+cauliflower leaves,148.0,3.9,0.42,3.39
+celery stalk,69.0,0.98,0.24,2.33
+chakla,406.0,20.21,1.68,0.0
+chana dal,364.0,21.0,5.6,60.0
+chappal,317.0,17.17,0.67,0.0
+cheese,402.0,25.0,33.0,1.3
+cheese american restaurant,375.0,17.5,31.1,6.35
+cheese cheddar,408.0,23.3,34.0,2.44
+cheese cottage lowfat milkfat,84.0,11.0,2.3,4.31
+cheese dry white queso seco,326.0,24.5,24.3,2.07
+cheese mozzarella low moisture part skim,298.0,23.7,20.4,4.44
+cheese parmesan grated,421.0,29.6,28.0,12.4
+cheese ricotta whole milk,157.0,7.81,11.0,6.86
+cheese swiss,393.0,27.0,31.0,1.44
+cheese urized process american vitamin d fortified,366.0,18.0,30.6,5.27
+chelu,366.0,20.02,0.7,0.0
+chembali,406.0,20.06,1.77,0.0
+cherries red,250.0,1.49,0.46,11.87
+chicken,239.0,27.0,14.0,0.0
+chicken breast,165.0,31.0,3.6,0.0
+chicken broiler or fryers breast meat braised,166.0,32.1,3.24,0.0
+chicken broilers or fryers drumstick meat braised,156.0,23.9,5.95,0.0
+chicken leg,216.0,27.0,12.0,0.0
+chicken mushroom,89.0,1.84,0.25,2.76
+chicken poultry breast,704.0,21.81,9.0,0.0
+chicken poultry leg,1605.0,19.44,12.64,0.0
+chicken poultry thigh,836.0,18.18,14.23,0.0
+chicken poultry wing,807.0,17.42,13.81,0.0
+chillies green,176.42857142857142,2.392857142857143,0.6942857142857143,5.8585714285714285
+chillies green all varieties,177.0,2.36,0.72,5.86
+chillies red,990.0,12.69,6.4,29.46
+cho cho marrow,79.0,0.66,0.15,3.47
+clam green shell,243.0,12.14,0.98,0.0
+clam white shell ribbed,250.0,11.82,1.34,0.0
+cloves,781.0,5.86,8.41,18.73
+cluster beans,168.0,3.55,0.37,4.91
+coconut kernal dry,2611.0,7.27,63.26,8.01
+coconut kernel,1711.0,3.84,41.38,6.3
+coconut oil,431.0,0.0,50.0,0.0
+coconut water,64.0,0.26,0.16,3.16
+colocasia,372.0,3.31,0.17,17.85
+colocasia leaves green,182.0,3.42,1.38,3.69
+colocasia stem black,100.0,0.76,0.34,3.83
+colocasia stem green,81.0,0.91,0.22,2.86
+cookies oatmeal soft with raisins,430.0,5.79,14.3,69.6
+coriander,298.0,12.0,18.0,55.0
+coriander leaves,76.5,2.81,0.6,2.815
+coriander seeds,1125.0,10.66,17.47,12.98
+corn,86.0,3.2,1.2,19.0
+corn baby,306.0,2.69,1.33,11.66
+corn flour,381.0,7.0,1.7,86.0
+corn oil,0.0,0.0,0.0,0.0
+cotton seed oil,0.0,0.0,0.0,0.0
+country hen breast with skin,753.0,22.08,10.2,0.0
+country hen leg with skin,723.0,17.01,11.73,0.0
+country hen thigh with skin,785.0,18.29,12.82,0.0
+country hen wing with skin,764.0,18.65,12.09,0.0
+cowpea brown,1340.0,20.36,1.15,54.62
+cowpea white,1340.0,21.25,1.14,53.77
+crab,335.0,11.73,1.15,0.0
+crab sea,283.0,15.36,0.6,0.0
+cucumber,16.0,0.7,0.1,3.5
+cucumber green elongate,82.0,0.71,0.16,3.48
+cucumber green short,73.0,0.83,0.18,2.82
+cucumber orange round,82.0,0.98,0.24,3.01
+cumin,375.0,18.0,22.0,44.0
+cumin seeds,824.5,15.955,19.32,33.31
+curd,61.0,3.5,3.3,4.7
+currants black,227.0,1.51,0.53,9.93
+curry leaves,187.0,6.755,1.03,11.254999999999999
+custard apple,414.0,1.62,0.67,20.38
+dates dry dark brown,1301.0,2.38,0.35,72.67
+dates dry pale brown,1340.0,2.45,0.35,74.91
+dates processed,1197.0,1.18,0.41,67.95
+drumstick,80.0,2.3600000000000003,0.16,5.88
+drumstick leaves,282.0,6.41,1.64,5.62
+duck meat with skin,547.0,19.07,6.03,0.0
+egg,155.0,13.0,11.0,1.1
+egg country hen omlet,855.0,14.8,16.3,0.0
+egg country hen whole,735.5,13.785,13.55,0.0
+egg duck whole,749.0,14.2,13.719999999999999,0.0
+egg duck whole omlet,804.0,15.1,14.8,0.0
+egg poultry omlet,710.0,16.53,11.6,0.0
+egg poultry white,203.5,11.605,0.16,0.0
+egg poultry whole,591.0,13.355,9.844999999999999,0.0
+egg poultry yolk,1266.0,15.934999999999999,26.9,0.0
+egg quial whole,641.0,12.71,11.48,0.0
+egg white dried,376.0,79.9,0.65,6.02
+egg white frozen urized,48.0,10.1,0.16,0.74
+egg whole dried,575.0,48.1,39.8,1.87
+egg whole frozen urized,150.0,12.3,10.3,0.91
+egg yolk dried,654.0,34.2,55.5,1.07
+egg yolk frozen urized,296.0,15.6,25.1,0.59
+eggs cat fish,600.0,24.68,5.28,0.0
+eggs grade a large egg white,55.0,10.7,0.0,2.36
+eggs grade a large egg whole,148.0,12.4,9.96,0.96
+eggs grade a large egg yolk,334.0,16.2,28.8,1.02
+emu meat,556.0,22.65,4.62,0.0
+eri meen,454.0,22.3,2.02,0.0
+fenugreek leaves,144.0,3.68,0.83,2.17
+fenugreek seeds,983.0,25.41,5.72,10.57
+field bean black,1155.0,19.93,0.92,43.46
+field bean brown,1184.0,19.9,0.98,45.24
+field bean white,1173.0,19.84,0.94,44.53
+field beans tender,140.0,3.71,0.6,2.85
+field beans tender broad,129.0,3.06,0.64,2.75
+fig,341.0,2.03,0.37,16.28
+figs dried un,249.0,3.3,0.92,63.9
+fish,206.0,22.0,12.0,0.0
+fish haddock,74.0,16.3,0.45,0.0
+fish pollock,56.0,12.3,0.41,0.0
+fish tuna light canned in water drained solids,90.0,19.0,0.94,0.08
+flour bread white enriched unbleached,363.0,14.3,1.65,72.8
+flour corn yellow fine meal enriched,364.0,6.2,1.74,80.8
+flour pastry unenriched unbleached,358.0,8.75,1.64,77.2
+flour rice brown,365.25,7.19,3.85,75.5
+flour rice glutinous,358.0,6.69,1.16,80.1
+flour rice white unenriched,359.0,6.94,1.3,79.8
+flour soy defatted,366.0,51.1,3.33,32.9
+flour soy full fat,452.0,38.6,20.7,27.9
+flour wheat all purpose enriched bleached,366.0,10.9,1.48,77.3
+flour wheat all purpose enriched unbleached,358.0,13.1,1.48,73.2
+flour wheat all purpose unenriched unbleached,362.0,12.0,1.7,74.6
+flour whole wheat unenriched,370.0,15.1,2.73,71.2
+frankfurter beef unheated,314.0,11.7,28.0,2.89
+french beans country,102.0,2.49,0.26,2.68
+french beans hybrid,93.0,2.12,0.19,2.63
+garam masala,350.0,10.0,15.0,50.0
+garden cress,208.0,5.62,0.8,4.48
+garden cress seeds,1863.0,23.36,23.74,33.66
+garlic,147.5,6.455,0.47,31.8
+garlic big clove,518.0,6.92,0.16,21.93
+garlic single clove kashmir,523.0,6.12,0.16,23.46
+garlic small clove,514.0,6.75,0.14,21.84
+ghee,675.0,0.0,75.0,0.0
+gingelly oil,0.0,0.0,0.0,0.0
+gingelly seeds black,2124.0,19.17,43.1,10.29
+gingelly seeds brown,2161.0,21.61,43.22,9.76
+gingelly seeds white,2174.0,21.7,43.05,10.83
+ginger,117.5,1.9050000000000002,0.8125,15.7425
+goat brain,533.0,13.82,8.06,0.0
+goat chops,568.0,20.39,5.98,0.0
+goat heart,492.0,19.38,4.4,0.0
+goat kidneys,374.0,15.6,2.93,0.0
+goat legs,669.0,22.07,7.94,0.0
+goat liver,526.0,20.32,4.88,0.0
+goat lungs,401.0,16.86,3.09,0.0
+goat meat,143.0,27.0,3.0,0.0
+goat shoulder meat,787.0,20.33,11.94,0.0
+goat spleen,401.0,18.45,2.37,0.0
+goat testis,298.0,12.32,2.39,0.0
+goat tongue,789.0,16.63,13.68,0.0
+goat tripe,386.0,15.36,3.36,0.0
+goat tube,525.0,12.92,8.26,0.0
+gobro,362.0,19.37,0.88,0.0
+gogu leaves green,152.0,1.86,1.09,4.06
+gogu leaves red,153.0,1.85,1.07,4.24
+gold fish,396.0,16.91,2.94,0.0
+goosberry,99.0,0.34,0.16,4.39
+grapefruit juice white canned or bottled unsweetened,37.0,0.55,0.7,7.59
+grapes,69.0,0.6,0.2,18.0
+grapes seeded round black,254.0,0.76,0.32,13.23
+grapes seeded round green,235.0,0.77,0.29,12.19
+grapes seeded round red,244.0,0.95,0.29,12.55
+grapes seedless oval black,395.0,1.41,0.46,20.48
+grapes seedless round black,374.0,1.24,0.35,19.86
+grapes seedless round green,224.0,0.62,0.26,11.81
+green chilli,40.0,2.0,0.2,9.0
+green gram dal,1363.0,23.88,1.35,52.59
+green gram whole,1229.0,22.53,1.14,46.13
+ground nut,2176.0,23.65,39.63,17.27
+groundnut oil,0.0,0.0,0.0,0.0
+guava pink flesh,195.0,1.19,0.25,9.14
+guava white flesh,135.0,1.44,0.32,5.13
+guinea fowl meat with skin,469.0,20.52,3.24,0.0
+guitar fish,400.0,22.56,0.44,0.0
+ham sliced pre packaged deli meat,106.0,16.7,3.73,0.27
+ham sliced restaurant,121.0,19.6,3.68,2.36
+hare chops,445.0,20.62,2.55,0.0
+hare leg,503.0,20.52,4.16,0.0
+hare shoulder,603.0,21.13,6.58,0.0
+hilsa,1083.0,21.8,18.49,0.0
+horse gram,321.0,22.0,1.5,58.0
+horse gram whole,1379.0,21.73,0.62,57.24
+hummus commercial,229.0,7.35,17.1,14.9
+idli rice,130.0,2.7,0.3,28.0
+jack fruit,110.0,1.98,0.35,3.48
+jack fruit ripe,302.0,2.74,0.15,14.01
+jack fruit seed mature,322.0,5.79,0.44,11.81
+jaggery,383.0,0.4,0.1,98.0
+jaggery cane,1480.0,1.85,0.16,84.87
+jallal,420.0,21.55,1.46,0.0
+jambu fruit ripe,235.0,0.82,0.17,12.3
+jathi vela meen,453.0,22.45,1.92,0.0
+jowar,863.5,9.985,2.365,69.84
+kadal bral,368.0,18.72,1.34,0.0
+kadali,530.0,22.07,4.2,0.0
+kalamaara,523.0,20.89,4.54,0.0
+kalava,374.0,19.38,1.2,0.0
+kale,35.0,2.92,1.49,4.42
+kale frozen drained,36.0,2.94,1.21,5.3
+kanamayya,367.0,20.19,0.65,0.0
+kannadi paarai,423.0,22.09,1.27,0.0
+karimeen,386.0,19.68,1.38,0.0
+karnagawala,363.0,19.52,0.84,0.0
+karonda fruit,141.0,1.15,1.67,2.87
+kayrai,454.0,20.15,3.0,0.0
+ketchup restaurant,117.0,1.11,0.55,26.8
+khoa,1322.0,16.34,20.62,16.53
+kiriyan,556.0,22.49,4.7,0.0
+kite fish,413.0,23.07,0.56,0.0
+kiwifruit green,58.0,1.06,0.44,14.0
+knol khol,67.0,1.58,0.35,1.39
+knol khol leaves,178.0,3.12,0.35,6.16
+korka,528.0,23.72,3.36,0.0
+kovai big,73.0,1.39,0.24,2.01
+kovai small,80.0,1.22,0.24,2.41
+kulam paarai,501.0,21.62,3.6,0.0
+ladies finger,115.0,2.08,0.22,3.62
+lemon juice,87.5,0.355,0.475,3.45
+lentil dal,1349.0,24.35,0.75,52.53
+lentil whole brown,1251.0,22.49,0.64,48.47
+lentil whole yellowish,1246.0,22.87,0.61,47.91
+lettuce,91.0,1.54,0.27,3.01
+lettuce cos or romaine,17.0,1.24,0.26,3.24
+lime sweet pulp,114.0,0.76,0.2,5.18
+linseeds,1857.0,18.55,35.67,10.99
+litchi,225.0,0.99,0.26,11.41
+lobster brown,292.0,15.96,0.56,0.0
+lobster king siz e,375.0,18.54,0.78,0.0
+lotus root,332.0,1.94,0.93,14.67
+maagaa,366.0,20.11,0.67,0.0
+mace,1488.0,6.24,24.41,26.51
+mackerel,423.0,21.51,1.53,0.0
+maida,364.0,10.0,1.0,76.0
+maize dry,1398.0,8.8,3.77,64.77
+maize tender local,502.0,3.57,1.4,22.69
+maize tender sweet,405.0,4.16,1.35,16.42
+manda clathi,398.0,21.27,1.0,0.0
+mango,60.0,0.8,0.4,15.0
+mango ginger,177.0,1.45,0.7,6.98
+mango green,205.0,0.69,0.08,10.59
+mango ripe banganapalli,175.0,0.54,0.55,8.18
+mango ripe gulabkhas,209.0,0.52,0.53,10.32
+mango ripe himsagar,187.0,0.46,0.54,9.03
+mango ripe kesar,231.0,0.54,0.57,11.36
+mango ripe neelam,178.0,0.68,0.55,8.21
+mango ripe paheri,188.0,0.68,0.58,8.67
+mango ripe totapari,248.0,0.41,0.49,12.75
+mangosteen,219.0,0.63,0.24,11.41
+manila tamarind,342.0,3.56,1.14,13.54
+masoor dal,352.0,25.0,1.0,60.0
+matha,389.0,21.17,0.79,0.0
+melons cantaloupe,34.0,0.82,0.18,8.16
+milk,51.0,3.3,2.15,5.0
+milk fish,442.0,23.66,1.09,0.0
+milk lowfat fluid milkfat with added vitamin a and vitamin d,43.0,3.38,0.95,5.1850000000000005
+milk nonfat fluid with added vitamin a and vitamin d,34.0,3.43,0.08,4.904999999999999
+milk reduced fat fluid milkfat with added vitamin a and vitamin d,50.0,3.355,1.9,4.905
+milk whole buffalo,449.0,3.68,6.58,8.39
+milk whole cow,305.0,3.26,4.48,4.94
+milk whole milkfat with added vitamin d,60.0,3.275,3.2,4.65
+millet,378.0,11.0,4.0,72.0
+mint leaves,99.5,3.98,0.675,5.195
+mithun chops,536.0,18.19,6.12,0.0
+mithun round,485.0,19.61,4.1,0.0
+mithun shoulder,736.0,19.05,11.14,0.0
+moon fish,526.0,20.74,4.69,0.0
+moong dal,347.0,24.0,1.2,63.0
+moth bean,1291.0,19.75,1.76,52.09
+mud crab,190.0,10.0,0.55,0.0
+mullet,393.0,20.23,1.32,0.0
+mural,345.0,19.04,0.58,0.0
+musk melon orange flesh,97.0,0.42,0.35,4.24
+musk melon yellow flesh,116.0,0.53,0.26,5.4
+mustard leaves,127.0,3.52,0.51,2.41
+mustard oil,0.0,0.0,0.0,0.0
+mustard prepared yellow,61.0,4.25,3.38,5.3
+mustard seeds,914.0,24.3775,37.0475,25.2
+mutton,294.0,25.0,21.0,0.0
+myil meen,410.0,22.89,0.56,0.0
+nalla bontha,364.0,19.82,0.72,0.0
+narba,432.0,21.95,1.6,0.0
+nectarines,39.0,1.06,0.28,9.18
+niger seeds black,2144.0,18.92,38.61,22.98
+niger seeds gray,2128.0,18.34,39.53,20.59
+nutmeg,1940.0,6.3,36.52,27.64
+nuts almonds dry added,620.0,20.4,57.8,16.2
+oats,389.0,17.0,7.0,66.0
+octopus,334.0,14.71,1.12,0.0
+oil,884.0,0.0,100.0,0.0
+oil coconut,833.0,0.0,99.1,0.84
+okra,33.0,2.0,0.2,7.0
+olives green manzanilla stuffed with pimiento,130.0,1.15,12.9,4.96
+omum,1495.0,15.89,21.11,24.53
+onion,40.0,1.1,0.1,9.0
+onion big,201.0,1.5,0.24,9.56
+onion rings breaded par frozen prepared heated in oven,288.0,4.52,14.4,36.3
+onion small,237.0,1.82,0.16,11.58
+onion stalk,107.0,2.07,0.26,2.99
+onions red,44.0,0.94,0.1,9.93
+onions white,35.0,0.89,0.13,7.68
+onions yellow,38.0,0.83,0.05,8.61
+orange,47.0,0.9,0.1,12.0
+orange pulp,156.0,0.7,0.13,7.92
+oranges navels,47.0,0.91,0.15,11.8
+oyster,252.0,9.51,2.44,0.0
+oyster mushroom dried,1019.0,19.04,2.86,33.07
+paarai,435.0,21.58,1.84,0.0
+padayappa,360.0,19.7,0.69,0.0
+pak choi leaves,67.0,1.41,0.25,1.78
+pali kora,394.0,19.25,1.81,0.0
+palm fruit tender,101.0,0.5,0.12,4.92
+palm oil,0.0,0.0,0.0,0.0
+pambada,537.0,21.95,4.44,0.0
+pandukopa,360.0,19.73,0.65,0.0
+paneer,265.0,18.0,20.0,2.1
+pangas,852.0,17.12,16.77,0.0
+panner,1079.0,18.86,14.78,12.41
+papaya,71.5,0.5,0.265,7.7
+papaya ripe,100.0,0.42,0.16,4.61
+parava,467.0,21.5,2.74,0.0
+parcus,361.0,19.87,0.62,0.0
+parrot fish,375.0,20.82,0.57,0.0
+parsley,305.0,5.55,1.14,9.43
+parwar,101.0,1.4,0.3,3.54
+peach,168.0,0.86,0.37,7.82
+peaches yellow,42.0,0.91,0.27,10.1
+peanut butter smooth style,597.0,22.5,51.1,22.3
+peanuts,567.0,26.0,49.0,16.0
+pear,157.0,0.36,0.27,8.09
+pears bartlett,57.0,0.38,0.16,15.1
+peas,210.5,6.125,0.265,12.940000000000001
+peas dry,1269.0,20.43,1.89,48.93
+pepper,251.0,10.0,3.3,64.0
+pepper black,910.0,10.12,2.74,36.22
+perinkilichai,387.0,20.89,0.87,0.0
+phalsa,299.0,1.66,0.14,15.09
+phopat,424.0,22.05,1.33,0.0
+pickles cucumber dill or kosher dill,12.0,0.48,0.43,1.99
+pigeon meat with skin,528.0,17.94,6.03,0.0
+pine seed,2486.0,12.55,48.79,26.77
+pineapple,180.0,0.52,0.16,9.42
+pippali,906.0,10.53,2.27,35.7
+piranha,549.0,20.46,5.43,0.0
+pistachio nuts,2257.0,23.35,42.49,15.82
+plantain flower,89.0,1.47,0.63,2.15
+plantain green,334.0,1.18,0.23,17.58
+plantain stem,165.0,0.35,0.16,8.64
+plum,238.0,0.64,0.4,12.1
+pn,99.0,24.0,0.3,0.0
+pns big,380.0,19.24,0.52,0.0
+pns small,297.0,13.07,0.78,0.0
+poha,350.0,6.5,1.0,77.0
+pomegranate maroon seeds,229.0,1.33,0.15,11.58
+pomfret black,515.0,18.91,4.83,0.0
+pomfret snub nose,375.0,21.05,0.46,0.0
+pomfret white,513.0,19.02,5.12,0.0
+ponnaganni,213.0,5.29,0.71,5.17
+poppy seeds,1768.0,20.31,30.38,12.37
+pork chops,748.0,19.41,11.3,0.0
+pork cured bacon restaurant,500.0,40.9,36.5,2.1
+pork ham,1006.0,18.83,18.55,0.0
+pork heart,457.0,16.31,4.87,0.0
+pork kidneys,379.0,14.35,3.65,0.0
+pork liver,484.0,19.89,3.94,0.0
+pork lungs,358.0,15.13,2.74,0.0
+pork shoulder,993.0,17.41,18.83,0.0
+pork spleen,357.0,15.13,2.71,0.0
+pork stomach,550.0,15.36,7.81,0.0
+pork tube,587.0,14.96,8.98,0.0
+potato,77.0,2.0,0.1,17.0
+potato brown skin big,292.0,1.54,0.23,14.89
+potato brown skin small,255.0,1.35,0.22,12.9
+potato red skin,306.0,1.83,0.22,15.43
+poultry chicken gizzard,386.0,18.22,2.07,0.0
+poultry chicken liver,518.0,21.57,4.08,0.0
+pranel,405.0,19.69,1.89,0.0
+pulli paarai,399.0,20.06,1.55,0.0
+pummelo,210.0,0.68,0.42,10.64
+pumpkin,26.0,1.0,0.1,7.0
+pumpkin green cylindrical,103.0,0.87,0.18,4.22
+pumpkin leaves tender,185.0,4.21,0.74,4.75
+pumpkin orange round,97.0,0.84,0.16,4.0
+quail meat,576.0,20.92,5.95,0.0
+queen fish,400.0,20.97,1.17,0.0
+quinoa,1374.0,13.11,5.5,53.65
+raai fish,430.0,21.61,1.69,0.0
+raai vanthu,410.0,19.39,2.17,0.0
+rabbit chops,565.0,22.61,4.88,0.0
+rabbit leg,584.0,21.31,5.99,0.0
+rabbit shoulder,635.0,20.01,7.96,0.0
+radish elongate red skin,134.0,0.67,0.13,6.71
+radish elongate white skin,135.0,0.77,0.15,6.56
+radish leaves,109.0,2.22,0.51,2.77
+radish round red skin,130.0,0.89,0.16,6.07
+radish round white skin,129.0,0.8,0.14,6.13
+ragi,1342.0,7.16,1.92,66.82
+raisins dried black,1279.0,2.57,0.34,71.29
+raisins dried golden,1241.0,2.76,0.35,68.79
+rajmah black,1247.0,19.01,1.62,49.59
+rajmah brown,1245.0,19.5,1.68,48.83
+rajmah red,1252.0,19.91,1.77,48.61
+rambutan,306.0,0.68,0.16,16.84
+rani,377.0,18.83,1.49,0.0
+rava,360.0,12.0,1.0,73.0
+ray fish bow head spotted,349.0,19.03,0.7,0.0
+red chilli,282.0,12.0,13.0,49.0
+red gram dal,1384.0,21.7,1.56,55.23
+red gram tender,520.0,8.09,0.92,19.46
+red gram whole,1146.0,20.47,1.38,42.48
+red snapper,437.0,22.79,1.34,0.0
+red snapper small,451.0,21.5,2.3,0.0
+restaurant chinese rice without meat,174.0,3.84,3.19,32.5
+restaurant chinese sweet and sour pork,260.0,8.88,13.6,25.5
+restaurant latino pupusas con frijoles,229.0,5.59,9.01,31.5
+restaurant latino tamale pork,174.0,7.38,9.04,15.8
+rice,130.0,2.7,0.3,28.0
+rice bran oil,0.0,0.0,0.0,0.0
+rice brown,1480.0,9.16,1.24,74.8
+rice flakes,1480.0,7.44,1.14,76.75
+rice flour,366.0,6.0,1.0,80.0
+rice milled,1491.0,7.94,0.52,78.24
+rice par milled,1471.0,7.81,0.55,77.16
+rice puffed,1514.0,7.47,1.62,77.68
+ricebean,1265.0,19.97,0.74,51.26
+ridge gourd,37.5,0.7050000000000001,0.17,2.86
+ridge gourd smooth skin,64.0,0.98,0.13,2.24
+rohu,428.0,19.71,2.39,0.0
+rumex leaves,82.0,1.62,0.33,2.33
+sadaya,462.0,20.68,2.97,0.0
+safflower oil,0.0,0.0,0.0,0.0
+safflower seeds,1981.0,17.66,30.87,30.18
+salmon,721.0,20.97,9.86,0.0
+salt,0.0,0.0,0.0,0.0
+samai,1449.0,10.13,3.89,65.55
+sambar,337.5,13.5,8.0,59.0
+sangada,443.0,20.26,2.67,0.0
+sankata paarai,434.0,21.87,1.68,0.0
+sapota,307.0,0.92,1.26,13.9
+sardine,637.0,17.91,8.99,0.0
+sauce pasta spaghetti marinara ready to serve,45.0,1.41,1.48,8.05
+sauce salsa ready to serve,29.0,1.44,0.19,6.74
+sausage breakfast sausage beef pre unprepared,328.0,13.3,28.7,3.37
+sausage italian pork mild pan,322.0,18.2,26.2,2.15
+sausage pork chorizo link or ground pan,346.0,19.3,28.1,2.63
+sausage turkey breakfast links mild,169.0,16.7,10.4,0.93
+seeds sunflower seed kernels dry added,612.0,21.0,56.1,17.1
+shark,398.0,21.6,0.83,0.0
+shark hammer head,432.0,23.4,0.8,0.0
+shark spotted,384.0,20.95,0.75,0.0
+sheep brain,492.0,13.05,7.29,0.0
+sheep chops,496.0,18.0,5.15,0.0
+sheep heart,445.0,18.19,3.66,0.0
+sheep kidneys,384.0,16.22,2.92,0.0
+sheep leg,686.0,21.42,8.69,0.0
+sheep liver,559.0,22.26,4.87,0.0
+sheep lungs,363.0,16.12,2.41,0.0
+sheep shoulder,840.0,18.24,14.31,0.0
+sheep spleen,384.0,16.02,3.02,0.0
+sheep tongue,783.0,16.61,13.53,0.0
+sheep tripe,435.0,16.76,4.05,0.0
+shelavu,446.0,22.46,1.74,0.0
+shiitake mushroom,243.0,3.19,0.76,8.98
+silan,633.0,22.72,6.68,0.0
+silk fish,408.0,20.65,1.53,0.0
+silver carp,555.0,21.71,5.17,0.0
+snake gourd long dark green,50.0,0.89,0.25,1.23
+snake gourd long pale green,52.0,0.98,0.25,1.27
+snake gourd short,61.0,0.54,0.26,2.15
+sole fish,367.0,19.05,1.18,0.0
+soursop,260.0,0.74,0.94,11.94
+soya bean brown,1596.0,35.58,19.82,12.79
+soya bean white,1579.0,37.8,19.42,10.16
+soyabean oil,0.0,0.0,0.0,0.0
+spinach,62.5,2.52,0.52,2.825
+squid black,335.0,16.1,1.07,0.0
+squid hard shell,320.0,16.82,0.93,0.0
+squid red,329.0,16.25,1.44,0.0
+squid white small,353.0,17.41,1.15,0.0
+star fruit,110.0,0.79,0.39,4.51
+stberries,31.0,0.64,0.22,7.63
+stberry,103.0,0.97,0.56,3.4
+stingray,408.0,23.98,0.68,0.0
+sugar,387.0,0.0,0.0,100.0
+sugarcane juice,242.0,0.16,0.4,13.11
+sugars granulated,385.0,0.0,0.32,99.6
+sunflower oil,442.0,0.0,50.0,0.0
+sunflower seeds,2453.0,23.53,51.85,6.85
+sweet potato brown skin,456.0,1.33,0.26,24.25
+sweet potato pink skin,452.0,1.27,0.33,23.93
+tamarind,239.0,2.8,0.6,62.5
+tamarind leaves tender,299.0,5.84,0.49,10.04
+tamarind pulp,1207.0,2.92,0.15,67.35
+tapioca,334.0,1.03,0.2,17.81
+tarlava,414.0,21.72,1.2,0.0
+tholam,432.0,20.78,2.13,0.0
+tiger pns,284.0,14.24,0.66,0.0
+tiger pns brown,273.0,14.85,0.56,0.0
+tiger pns orange,270.0,14.25,0.74,0.0
+tilapia,349.0,18.48,1.08,0.0
+tinda tender,58.0,1.02,0.17,1.9
+toddy,101.0,0.18,0.03,5.72
+tomato,18.0,0.9,0.2,3.9
+tomato green,87.0,1.12,0.27,3.18
+tomato ripe hybrid,79.0,0.76,0.25,3.2
+tomato ripe local,82.0,0.9,0.47,2.71
+tomatoes canned red ripe diced,18.0,0.84,0.5,3.32
+tomatoes grape,27.0,0.83,0.63,5.51
+toor dal,343.0,22.0,1.7,63.0
+tuna,470.0,24.5,1.44,0.0
+tuna striped,403.0,21.28,1.12,0.0
+turkey breast with skin,671.0,21.96,8.04,0.0
+turkey ground fat pan broiled crumbles,220.0,27.1,11.6,0.0
+turkey leg with skin,647.0,20.3,8.15,0.0
+turkey thigh with skin,581.0,20.46,6.31,0.0
+turkey wing with skin,771.0,21.91,10.77,0.0
+turmeric,538.0,8.765,5.407500000000001,62.055
+urad dal,347.0,25.0,1.5,59.0
+valava,410.0,21.8,1.06,0.0
+vanaspati,0.0,0.0,0.0,0.0
+vanjaram,570.0,22.28,5.18,0.0
+varagu,1388.0,8.92,2.55,66.19
+vela meen,537.0,22.16,4.34,0.0
+vora,422.0,20.14,2.14,0.0
+walnut,1731.5,14.96,64.63499999999999,12.07
+water,0.0,0.0,0.0,0.0
+water chestnut,400.0,0.86,0.37,21.46
+water eel,451.0,20.41,2.63,0.0
+water melon dark green,85.0,0.6,0.16,3.86
+water melon pale green,70.0,0.59,0.16,3.02
+watermelon,30.0,0.6,0.2,8.0
+whale shark,401.0,21.83,0.82,0.0
+wheat bulgur,1430.0,10.84,1.45,69.06
+wheat flour,364.0,10.0,1.0,76.0
+wheat flour atta,1340.0,10.57,1.53,64.17
+wheat flour refined,1472.0,10.36,0.76,74.27
+wheat semolina,1396.0,11.38,0.74,68.43
+wheat vermicelli,1407.5,10.035,0.47,70.905
+wheat whole,1347.0,10.59,1.47,64.72
+wood apple,327.0,3.14,3.62,7.52
+xiphinis,370.0,19.82,0.88,0.0
+yam elephant,353.0,2.56,0.14,17.46
+yam ordinary,349.0,2.18,0.17,17.65
+yam wild,430.0,3.07,0.3,20.95
+yogurt greek plain nonfat,61.0,10.3,0.37,3.64
+yogurt greek stberry nonfat,83.0,8.06,0.15,12.2
+zizyphus,204.0,1.34,0.35,9.4
+zucchini green,84.0,1.1,0.51,2.33
+zucchini yellow,79.0,1.31,0.44,2.2
